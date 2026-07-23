@@ -2,3 +2,5 @@
 .env.*
 .input
 .output
+.input.*
+.output.*
