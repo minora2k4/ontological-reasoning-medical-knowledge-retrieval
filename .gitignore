@@ -1,6 +1,6 @@
 .env
 .env.*
-.input
-.output
-.input.*
-.output.*
+input/
+output/
+__pycache__/
+*.pyc
